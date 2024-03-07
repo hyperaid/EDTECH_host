@@ -10,7 +10,7 @@ import { apiConnector } from "../../services/apiConnector";
 import { categories } from "../../services/apis";
 import { ACCOUNT_TYPE } from "../../utils/constants";
 import ProfileDropdown from "../core/Auth/ProfileDropdown";
-import { set } from "react-hook-form";
+// import { set } from "react-hook-form";
 
 // const subLinks = [
 //   {
